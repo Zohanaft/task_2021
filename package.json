@@ -1,0 +1,11 @@
+{
+  "name": "task_2021",
+  "version": "1.0.0",
+  "description": "use with node 14.17.4",
+  "main": "task_2021.js",
+  "scripts": {
+    "start": "node ./task_2021.js"
+  },
+  "author": "Lazgen",
+  "license": "ISC"
+}
