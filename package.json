@@ -6,6 +6,6 @@
   "scripts": {
     "start": "node ./task_2021.js"
   },
-  "author": "Lazgen",
+  "author": "Zohanaft",
   "license": "ISC"
 }
